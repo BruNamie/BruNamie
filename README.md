@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ## 📈 My Stats
 
-<a href="https://github.com/BruNamie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BruNamie)](https://github.com/BruNamie/github-readme-stats)" />
+<a href="https://github.com/BruNamie/BruNamie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BruNamie&theme=nord&show_icons=true&line_height=27&count_private=true&" />
 </a>
-<a href="https://github.com/BruNamie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BruNamie)](https://github.com/BruNamie/github-readme-stats)"  alt="Catalin's GitHub Stats"/>
+<a href="https://github.com/BruNamie/BruNamie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruNamie&theme=nord&langs_count=3"  alt="Catalin's GitHub Stats"/>
 </a>
