@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Bruna
+*Electrical Engineering student at University of São Paulo (USP) <br>
+Member at [Turing USP](https://github.com/turing-usp) <br>*
 <!--
 **BruNamie/BruNamie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📈 My Stats
+
+<a href="https://github.com/BruNamie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BruNamie)](https://github.com/BruNamie/github-readme-stats)" />
+</a>
+<a href="https://github.com/BruNamie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BruNamie)](https://github.com/BruNamie/github-readme-stats)"  alt="Catalin's GitHub Stats"/>
+</a>
